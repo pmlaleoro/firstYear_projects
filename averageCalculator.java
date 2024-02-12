@@ -1,9 +1,5 @@
 /*
- * Authors: Leoro, Pamela
- *          Regalado, Bernadine
- *          Ilacad, Cherry
- *          De Peralta, Ron Mari
- *          Javines, Troy
+ * Author: Leoro, Pamela Angel B.
  * Version@01/22/24
  * Fundamentals of Programming: Final Project
  * A program that computes and presents the student’s average grade, considering their grades across various subjects.
